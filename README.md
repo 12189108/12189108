@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=12189108&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)]  
+![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=12189108&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12189108&layout=donut)
